@@ -1,6 +1,6 @@
 # civic-api-java
 
-[![](https://jitpack.io/v/MosquitoKill3r/civic-api.svg)](https://jitpack.io/#MosquitoKill3r/civic-api)
+[![](https://jitpack.io/v/civic-community/civic-sip-api-java.svg)](https://jitpack.io/#civic-community/civic-sip-api-java)
 
 Java port for the Civic hosted SIP API.
 Please see [docs.civic.com](https://docs.civic.com) for a more details.
