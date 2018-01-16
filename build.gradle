@@ -8,7 +8,7 @@ plugins {
     id 'com.adarshr.test-logger' version '1.1.2'
 }
 
-group 'civic-api'
+group = 'com.github.civic-community'
 version '0.0.3'
 
 apply plugin: 'java'
@@ -19,11 +19,9 @@ targetCompatibility = 1.8
 
 repositories {
     mavenCentral()
-    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
-    compile("com.github.civic-community:civic-sip-api-java:master")
     compile("com.fasterxml.jackson.core:jackson-databind:2.8.10")
     compile("org.bouncycastle:bcprov-jdk15on:1.55")
     compile("org.apache.httpcomponents:httpclient:4.5.4")
