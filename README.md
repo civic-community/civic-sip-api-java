@@ -1,4 +1,4 @@
-# civic-api-java
+# civic-sip-api-java
 
 [![](https://jitpack.io/v/civic-community/civic-sip-api-java.svg)](https://jitpack.io/#civic-community/civic-sip-api-java)
 
