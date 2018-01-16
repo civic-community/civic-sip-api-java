@@ -1,4 +1,4 @@
-# civic-api
+# civic-api-java
 
 [![](https://jitpack.io/v/MosquitoKill3r/civic-api.svg)](https://jitpack.io/#MosquitoKill3r/civic-api)
 
@@ -8,8 +8,8 @@ Please see [docs.civic.com](https://docs.civic.com) for a more details.
 ### Installation
 * You must have **Gradle** installed in order to build this project
 * You can check [Demo Web Application](https://github.com/MosquitoKill3r/civic-api-web-demo) for configuration, installation and usage.
-* To build project run `gradle clean build` from command line.
-* To run unit test execute `gradle test` from command line.
+* To build project run `gradle clean build` from the command line at the project root.
+* To run unit test execute `./gradlew clean test` from the command line at the project root.
 
 ### Usage
 - Register your application on [Civic Partner Portal](https://sip-partners.civic.com).
